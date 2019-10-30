@@ -24,6 +24,10 @@
         {%- include education.html -%}
       {%- endif -%}
 
+      {%- if site.data.publica.size > 0 -%}
+        {%- include publica.html -%}
+      {%- endif -%}
+      
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
