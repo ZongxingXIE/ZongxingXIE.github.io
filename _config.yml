@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Zongxing Xie
-title: Ph.D. student
+title: Ph.D. student in ECE
 email: zongxing.xie[AT]stonybrook.edu
 phone: (631)590-9318
 website: zongxingxie.github.io
