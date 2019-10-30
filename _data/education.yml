@@ -7,3 +7,12 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+
+- layout: left
+  name: Zhejiang University
+  dates: Aug. 2013 - Jun. 2017
+  qualification: Bachelor. in Marine Techonology and Engineering
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
