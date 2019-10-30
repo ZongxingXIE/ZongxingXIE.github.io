@@ -11,12 +11,12 @@ website: zongxingxie.github.io
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  zongxingxie
 # dribbble_username: jekyll
-facebook_username: jekyll
+facebook_username: zongxingxie1229
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: zongxingxie
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -26,12 +26,13 @@ linkedin_username: jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Hello, welcome to my homepage. 
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - Links
+#    - Images
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
