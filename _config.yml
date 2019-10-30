@@ -26,7 +26,7 @@ linkedin_username: zongxingxie
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraph
-Hello, welcome to my homepage. Feel free to contact me if intereted.
+  Hello, welcome to my homepage. Feel free to contact me if intereted.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
@@ -48,7 +48,7 @@ Hello, welcome to my homepage. Feel free to contact me if intereted.
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
 #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-To be **updated**. 
+  To be **updated**. 
 #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
