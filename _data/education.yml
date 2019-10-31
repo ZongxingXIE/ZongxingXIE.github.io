@@ -9,7 +9,9 @@
     Short institution or course description (optional)Short institution or course description (optional)
     Short institution or course description (optional)Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Description of qualificationDescription of qualificationDescription of qualificationDescription of qualification
+    Description of qualificationDescription of qualificationDescription of qualificationDescription of qualification
+    Description of qualificationDescription of qualificationDescription of qualificationDescription of qualification
 
 - layout: left
   name: Zhejiang University
