@@ -50,5 +50,5 @@
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Developed a small type of AUV with PID algorithm to control BLDC motors to achieve hovering at the programmed depths well as tracking the predefined paths.
-    Implement program on STM32F103 board as Control Unit; Leveraged 3D printer to build the structure for mounting motors and control unit. [Embedded System]
+    Developed a small type of AUV with PID algorithm to control BLDC motors to achieve hovering at the programmed depth as well as tracking the predefined paths.
+    Implemented the program on STM32F103 board as Control Unit; Leveraged 3D printer to build the structure for mounting motors and control unit. [Embedded System]
