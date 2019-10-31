@@ -1,10 +1,33 @@
 # Experience template
 - layout: left
-  company: To be updated
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Mobile Computing and Application Lab (MOCA), CEWIT, Stony Brook University
+  link: https://www.cewit.org/divisions/index.php
+  job_title: Research Assistant
+  dates: Jun. 2018 -  Present
+  #quote: >
+  # Short description of the company (optional)
+  #description: | # this will include new lines to allow paragraphs
+  #  Description of role
+
+- layout: left
+  company: Mobile Computing and Application Lab (MOCA), CEWIT, Stony Brook University
+  link: https://bmi.stonybrookmedicine.edu/csire2019
+  job_title: CSIRE Program Mentor
+  dates: Jun. 2019 -  Aug. 2019
+  #quote: >
+  # Short description of the company (optional)
+  #description: | # this will include new lines to allow paragraphs
+  #  Worked on building a trace replayer at system call level to reproduce system call operations that were captured during a specific workload using C, C++, DataSeries. Developed a wrapper class that makes C++ functions callable by strace C code.}
+  
+- layout: left
+  company: Department of Electrical and Computer Engineering, Stony Brook Univeristy
+  link: https://www.stonybrook.edu/commcms/electrical/
+  job_title: Teaching Assistant
+  dates: Aug. 2017 - Jun. 2019
+  #quote: >
+  # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    ESE 347 Digital Signal Processing: Implementation - Spring 2019 (Instructor: Dmitri Gavrilov)
+    ESE 124 Computer Techniques for Electronic Design I - Fall 2018 (Instructor: Jayant Parekh)
+    ESE 333 Real-Time Operating Systems - Spring 2018 (Instructor: Fan Ye)
+    ESE 380 Embedded Microprocessor Systems Design I - Fall 2017 (Instructor: Kenneth Short;  F. Scott Tierno)
