@@ -21,3 +21,12 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+
+- layout: left
+  name: University of Illinois at Urbana–Champaign ()
+  dates: Jun. 2016 - Aug. 2016
+  qualification: Summer Session
+  quote: >
+    Selected Courses include Control Systems; Information Science and Strategy
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
