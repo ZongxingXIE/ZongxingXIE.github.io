@@ -2,7 +2,7 @@
 - layout: top-middle
   name: Driver Behavior Monitoring with mmWave Radar
 #  link: https://github.com/ZongxingXIE
-  github: https://github.com/ZongxingXIE
+#  github: https://github.com/ZongxingXIE
 #  quote: >
 #    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
@@ -12,7 +12,7 @@
 - layout: top-middle
   name: Device-free Vital Sign Monitoring System Combining UWB Radar and Depth Camera
 #  link: https://github.com/ZongxingXIE
-  github: https://github.com/ZongxingXIE
+#  github: https://github.com/ZongxingXIE
 #  quote: >
 #    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
@@ -23,7 +23,7 @@
 - layout: top-middle
   name: Multi-Modal Face Authentication using Deep Visual and Acoustic Features
 #  link: https://github.com/ZongxingXIE
-  github: https://github.com/ZongxingXIE
+#  github: https://github.com/ZongxingXIE
 #  quote: >
 #    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
@@ -34,7 +34,7 @@
 - layout: top-middle
   name: Content-Centric Peer Data Sharing
 #  link: https://github.com/ZongxingXIE
-  github: https://github.com/ZongxingXIE
+#  github: https://github.com/ZongxingXIE
 #  quote: >
 #    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
@@ -46,7 +46,7 @@
 - layout: top-middle
   name: Autonomous Underwater Vehicle (Underwater Robot) Design
 #  link: https://github.com/ZongxingXIE
-  github: https://github.com/ZongxingXIE
+#  github: https://github.com/ZongxingXIE
 #  quote: >
 #    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
