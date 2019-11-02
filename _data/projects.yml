@@ -1,42 +1,42 @@
 # Project template
 - layout: top-middle
-  name: Driver Behavior Monitoring with mmWave Radar [Wireless Sensing, Deep Learning]
+  name: Driver Behavior Monitoring with mmWave Radar 
 #  link: https://github.com/ZongxingXIE
 #  github: https://github.com/ZongxingXIE
-#  quote: >
-#    Short overview of the project (optional)
+  quote: >
+    [Wireless Sensing, Smart Healthcare, Deep Learning]
   description: | # this will include new lines to allow paragraphs
     Developed a cross-modal training pipeline to take Doppler-Range map and Range-Azimuth map from mmWave chip as input, and use the skeletal vector extracted from Depth Camera as ground truth for instant pose recognition, and sequential poses for behavior recognition. 
     
     
 - layout: top-middle
-  name: Device-free Vital Sign Monitoring System Combining UWB Radar and Depth Camera [Wireless Sensing, Smart Healthcare, Deep Learning]
+  name: Device-free Vital Sign Monitoring System Combining UWB Radar and Depth Camera 
 #  link: https://github.com/ZongxingXIE
 #  github: https://github.com/ZongxingXIE
-#  quote: >
-#    Short overview of the project (optional)
+  quote: > 
+    [Wireless Sensing, Smart Healthcare, Deep Learning]
   description: | # this will include new lines to allow paragraphs
     Made use of the echoes of UWB pulses reflected from the subject to extract phase change modulated by physiological motion (i.e., breathing and heartbeat) and estimate the heart rate and respiratory rate by spectral analysis. Leveraged depth camera to recognize ID and instant behavior as context information for long-term health data analytics. 
     
 
 
 - layout: top-middle
-  name: Multi-Modal Face Authentication using Deep Visual and Acoustic Features [Deep Learning, Mobile Sensing and Computing]
+  name: Multi-Modal Face Authentication using Deep Visual and Acoustic Features 
 #  link: https://github.com/ZongxingXIE
 #  github: https://github.com/ZongxingXIE
-#  quote: >
-#    Short overview of the project (optional)
+  quote: >
+    [Deep Learning, Mobile Sensing and Computing]
   description: | # this will include new lines to allow paragraphs
     Trained Deep Neural Network model as the feature extractor to get embeddings of the joint feature, which combines acoustic and visual features collected from COTS smartphone, and trained one-class SVM model for user identification/authentication. 
     
 
 
 - layout: top-middle
-  name: Content-Centric Peer Data Sharing [Edge Computing]
+  name: Content-Centric Peer Data Sharing 
 #  link: https://github.com/ZongxingXIE
 #  github: https://github.com/ZongxingXIE
-#  quote: >
-#    Short overview of the project (optional)
+  quote: >
+    [Edge Computing]
   description: | # this will include new lines to allow paragraphs
     Developed a self-organized clustering protocol for hierarchical peer data sharing among distributed devices. Implemented simulation with ns-3 platform. 
     
@@ -44,11 +44,11 @@
 
 
 - layout: top-middle
-  name: Autonomous Underwater Vehicle (Underwater Robot) Design [Embedded System]
+  name: Autonomous Underwater Vehicle (Underwater Robot) Design 
 #  link: https://github.com/ZongxingXIE
 #  github: https://github.com/ZongxingXIE
-#  quote: >
-#    Short overview of the project (optional)
+  quote: >
+    [Embedded System]
   description: | # this will include new lines to allow paragraphs
     Developed a small type of AUV with PID algorithm to control BLDC motors to achieve hovering at the programmed depth as well as tracking the predefined paths.
     Implemented the program on STM32F103 board as Control Unit; Leveraged 3D printer to build the structure for mounting motors and control unit. 
