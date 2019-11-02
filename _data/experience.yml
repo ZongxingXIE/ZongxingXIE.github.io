@@ -16,9 +16,11 @@
   dates: Jun. 2019 -  Aug. 2019
   #quote: >
   # Short description of the company (optional)
-  #description: | # this will include new lines to allow paragraphs
-  #  Worked on building a trace replayer at system call level to reproduce system call operations that were captured during a specific workload using C, C++, DataSeries. Developed a wrapper class that makes C++ functions callable by strace C code.}
-  
+  description: | # this will include new lines to allow paragraphs
+    Guide high school students to work on a mmWave-related project, 
+    including collecting Range-Doppler data, 
+    training CNN-LSTM model which takes Range-Doppler maps for behavior detection, 
+    and direct them to finish a poster for presentation.
 - layout: left
   company: Department of Electrical and Computer Engineering, Stony Brook Univeristy
   link: https://www.stonybrook.edu/commcms/electrical
