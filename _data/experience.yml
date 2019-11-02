@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Mobile Computing and Application Lab (MOCA), CEWIT, Stony Brook University
-  link: https://www.cewit.org/divisions/index.php
+  link: https://www.cewit.org/divisions
   job_title: Research Assistant
   dates: Jun. 2018 -  Present
   #quote: >
@@ -10,7 +10,7 @@
   #  Description of role
 
 - layout: left
-  company: Mobile Computing and Application Lab (MOCA), CEWIT, Stony Brook University
+  company: MOCA, CEWIT, Stony Brook University
   link: https://bmi.stonybrookmedicine.edu/csire2019
   job_title: CSIRE Program Mentor
   dates: Jun. 2019 -  Aug. 2019
@@ -21,7 +21,7 @@
   
 - layout: left
   company: Department of Electrical and Computer Engineering, Stony Brook Univeristy
-  link: https://www.stonybrook.edu/commcms/electrical/
+  link: https://www.stonybrook.edu/commcms/electrical
   job_title: Teaching Assistant
   dates: Aug. 2017 - Jun. 2019
   #quote: >
