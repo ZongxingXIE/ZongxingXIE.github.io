@@ -27,7 +27,7 @@ linkedin_username: zongxingxie
 about_profile_image: zx_profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello, welcome to my homepage. My research interests center around <mark>Wireless Sensing</mark>, 
-  <mark>Ubiquitous Healthcare</mark>, <mark>Deep Learning</mark> and <mark>Edge Computingg</mark>. 
+  <mark>Ubiquitous Healthcare</mark>, <mark>Deep Learning</mark> and <mark>Edge Computing</mark>. 
   Feel free to contact me if interested.
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
