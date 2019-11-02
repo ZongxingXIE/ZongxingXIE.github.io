@@ -6,8 +6,12 @@
   dates: Jun. 2018 -  Present
   #quote: >
   # Short description of the company (optional)
-  #description: | # this will include new lines to allow paragraphs
-  #  Description of role
+  description: | # this will include new lines to allow paragraphs
+    Take charge of projects including:
+    - Driver Behavior Monitoring with mmWave Radar
+    - Device-free Vital Sign Monitoring System Combining UWB Radar and Depth Camera
+    - Multi-Modal Face Authentication using Deep Visual and Acoustic Features
+    - Content-Centric Peer Data Sharing
 
 - layout: left
   company: MOCA, CEWIT, Stony Brook University
@@ -24,7 +28,7 @@
     and 
     - A poster for presentation.
     
-    Help students explore topics in a interdisciplinary research area that 
+    Help students explore topics in an interdisciplinary research area that 
     incorporates mobile computing, wireless sensing techniques, 
     human computer interaction, bioinformatics, health informatics, etc. 
 - layout: left
