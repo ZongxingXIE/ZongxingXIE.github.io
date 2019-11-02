@@ -4,7 +4,7 @@
   dates: Aug. 2017 - Jun. 2022 (expected)
   qualification: Ph.D. in Electrical and Computer Engineering
   quote: >
-    [Stony Brook University](https://www.stonybrook.edu/), widely regarded as a SUNY flagship, 
+    Stony Brook University, widely regarded as a SUNY flagship, 
     was established in 1957. 
     The University has grown tremendously and is now recognized as 
     one of the nation’s important centers of learning and scholarship.
@@ -18,7 +18,7 @@
   dates: Aug. 2013 - Jun. 2017
   qualification: Bachelor. in Marine Techonology and Engineering
   quote: >
-    [Zhejiang University](http://www.zju.edu.cn/english/) (Chinese: 浙江大学) 
+    Zhejiang University (Chinese: 浙江大学) 
     is an elite C9 League university located in Hangzhou, China. 
     Founded in 1897, Zhejiang University is one of China's oldest, most selective, 
     and most prestigious institutions of higher education.
@@ -26,11 +26,11 @@
     Description of qualification
 
 - layout: left
-  name: University of Illinois at Urbana–Champaign
+  name: [University of Illinois at Urbana–Champaign](https://illinois.edu/)
   dates: Jun. 2016 - Aug. 2016
   qualification: Summer Session
   quote: >
-    The [University of Illinois at Urbana–Champaign](https://illinois.edu/)
+    The University of Illinois at Urbana–Champaign
     is a public research university in Illinois and the flagship institution of the University of Illinois system. 
     Founded in 1867, its campus is located in the twin cities of Champaign and Urbana.
   description: | # this will include new lines to allow paragraphs
