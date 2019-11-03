@@ -41,7 +41,7 @@
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    - ESE 347 Digital Signal Processing: Implementation - Spring 2019 (Instructor: Dmitri Gavrilov)
-    - ESE 124 Computer Techniques for Electronic Design I - Fall 2018 (Instructor: Jayant Parekh)
-    - ESE 333 Real-Time Operating Systems - Spring 2018 (Instructor: Fan Ye)
-    - ESE 380 Embedded Microprocessor Systems Design I - Fall 2017 (Instructor: Kenneth Short;  F. Scott Tierno)
+    - ESE 347 Digital Signal Processing: Implementation - Spring 2019 (Instructor: Dr. Dmitri Gavrilov)
+    - ESE 124 Computer Techniques for Electronic Design I - Fall 2018 (Instructor: Dr. Jayant Parekh)
+    - ESE 333 Real-Time Operating Systems - Spring 2018 (Instructor: Dr. Fan Ye)
+    - ESE 380 Embedded Microprocessor Systems Design I - Fall 2017 (Instructor: Dr. Kenneth Short;  F. Scott Tierno)
