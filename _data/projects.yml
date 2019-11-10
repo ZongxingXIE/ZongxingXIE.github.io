@@ -6,7 +6,9 @@
   quote: >
     [Wireless Sensing, Ubiquitous Healthcare, Deep Learning]
   description: | # this will include new lines to allow paragraphs
-    Developed a cross-modal training pipeline to take Doppler-Range map and Range-Azimuth map from mmWave chip as input, and use the skeletal vector extracted from Depth Camera as ground truth for instant pose recognition, and sequential poses for behavior recognition. 
+    Developed a cross-modal training pipeline to take Doppler-Range map and Range-Azimuth map from mmWave chip as input, 
+    and use the skeletal vector extracted from Depth Camera as ground truth for instant pose recognition, 
+    and sequential poses for behavior recognition. 
     
     
 - layout: top-middle
@@ -16,7 +18,11 @@
   quote: > 
     [Wireless Sensing, Ubiquitous Healthcare, Deep Learning]
   description: | # this will include new lines to allow paragraphs
-    Made use of the echoes of UWB pulses reflected from the subject to extract phase change modulated by physiological motion (i.e., breathing and heartbeat) and estimate the heart rate and respiratory rate by spectral analysis. Leveraged depth camera to recognize ID and instant behavior as context information for long-term health data analytics. 
+    Made use of the echoes of UWB pulses reflected from the subject to 
+    extract phase change modulated by physiological motion (i.e., breathing and heartbeat) 
+    and estimate the heart rate and respiratory rate by spectral analysis. 
+    Leveraged depth camera to recognize ID and instant behavior as context information 
+    with Deep Learning models for long-term health data analytics. 
     
 
 
@@ -27,7 +33,9 @@
   quote: >
     [Deep Learning, Mobile Sensing and Computing]
   description: | # this will include new lines to allow paragraphs
-    Trained Deep Neural Network model as the feature extractor to get embeddings of the joint feature, which combines acoustic and visual features collected from COTS smartphone, and trained one-class SVM model for user identification/authentication. 
+    Trained Deep Neural Network model as the feature extractor to get embeddings of the joint feature, 
+    which combines acoustic and visual features collected from COTS smartphone, 
+    and trained one-class SVM model for user identification/authentication. 
     
 
 
